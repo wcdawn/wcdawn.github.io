@@ -17,5 +17,5 @@ My research focuses on modeling multiphysics effects in nuclear power reactors u
 I spend most of my research time solving the neutron transport equation on unstructured meshes using the [Summit](https://www.olcf.ornl.gov/summit/) supercomputer.
 
 When I'm not working on research, I'm probably hiking.
-The photo on the left is my dog, Annie, and me in Grand Teton National Park.
+The photo on the right is my dog, Annie, and me in Grand Teton National Park.
 I'm also interested in computer science and software development and you can find some of my experiments detailed in my [blog](/blog) or on my [GitHub](https://github.com/wcdawn).
