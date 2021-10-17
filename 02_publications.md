@@ -24,6 +24,8 @@ permalink: /publications/
 
 ## Patents
 
-- "Intermixing Feedwater Sparger Nozzles and Methods for using the Same in Nuclear Reactors." [WO2018182965A3](https://patents.google.com/patent/WO2018182965A3/).
+- "Intermixing Feedwater Sparger Nozzles and Methods for using the Same in Nuclear Reactors." [US10566097B2](https://patents.google.com/patent/US10566097B2).
 
 - "Acoustic Flowmeters and Methods of Using Same." [US10650931B2](https://patents.google.com/patent/US10650931B2).
+
+- "Systems and Methods for Airflow Control in Reactor Passive Decay Heat Removal." [US10937557B2](https://patents.google.com/patent/US10937557B2).
