@@ -52,7 +52,7 @@ float fast_inv_sqrt(float * x_in)
 
 Next, we need a Fortran interface for the C function.
 
-```f90
+```fortran
 ! mod_c_interface.f90
 module c_interface
 use, intrinsic :: ISO_C_BINDING, only : C_FLOAT
@@ -72,7 +72,7 @@ endmodule c_interface
 
 Finally, we can call the C function from a Fortran program by `use`-ing the Fortran module containing the C interface.
 
-```f90
+```fortran
 ! main.f90
 program main
 use, intrinsic :: ISO_C_BINDING, only : C_FLOAT
@@ -99,7 +99,7 @@ Alternatively, we could use the `transfer` function to perform the necessary bit
 
 First, we write the fast inverse square root algorithm in Fortran. `transfer` is used to perform the type punning and the bit-shift (i.e., `<<` in C) is replaced with a division operation (i.e., `/2`).
 
-```f90
+```fortran
 ! f_fast_inf_sqrt.f90
 real(4) function f_fast_inv_sqrt(x)
   IMPLICIT NONE
@@ -123,7 +123,7 @@ endfunction f_fast_inv_sqrt
 
 Then, we write a simple Fortran program to call the Fortran implementation of the fast inverse square root function.
 
-```f90
+```fortran
 ! main.f90
 program main
 IMPLICIT NONE
@@ -145,7 +145,7 @@ gfortran -std=f2003 -O3 -Wall -Wextra -o exec.x f_fast_inv_sqrt.f90 main.f90
 
 Finally, we could simply evaluate the inverse square root using the "slow" intrinsic `sqrt` function in Fortran. After all, how slow could it be?
 
-```f90
+```fortran
 f = 1.0/sqrt(x)
 ```
 
@@ -153,7 +153,7 @@ f = 1.0/sqrt(x)
 
 I have ran some simple timing tests to compare the three implementations above. The tests are very simple and simply call the function of interest one-billion times. Note: we have to be a bit clever here. I am a firm believer that if we want to compare these methods, we should compare the optimized executables (i.e., compare `-O3` rather than `-O0`). The problem is, the optimization can be **too** good. If we simply use the intrinsic `sqrt` function and evaluate it many times, the optimizer will replace it with a single evaluation. The code below is how I tested these methods.
 
-```f90
+```fortran
 program main
 use timing ! some timing module providing tic and toc
 use, intrinsic :: ISO_C_BINDING, only : C_FLOAT
