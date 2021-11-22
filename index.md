@@ -12,7 +12,7 @@ layout: page
 </div>
 
 My name is William.
-I'm a Ph.D. student studying nuclear engineering at North Carolina State University.
+I'm a Ph.D. candidate studying nuclear engineering at North Carolina State University.
 My research focuses on modeling multiphysics effects in nuclear power reactors using [Exascale](https://www.exascaleproject.org) computing.
 I spend most of my research time solving the neutron transport equation on unstructured meshes using the [Summit](https://www.olcf.ornl.gov/summit/) supercomputer.
 
