@@ -12,9 +12,8 @@ layout: page
 </div>
 
 My name is William.
-I'm a Ph.D. candidate studying nuclear engineering at North Carolina State University.
-My research focuses on modeling multiphysics effects in nuclear power reactors using [Exascale](https://www.exascaleproject.org) computing.
-I spend most of my research time solving the neutron transport equation on unstructured meshes using the [Summit](https://www.olcf.ornl.gov/summit/) supercomputer.
+I am a nuclear engineer in Idaho Falls, ID.
+My work and research interest are numerical methods for efficiently modeling nuclear power reactors, especially those with hexagonal geometry.
 
 When I'm not working on research, I'm probably hiking.
 The photo on the right is my dog, Annie, and me in Grand Teton National Park.
