@@ -6,9 +6,13 @@ permalink: /publications/
 
 ## Articles
 
+- **Dawn, William C.** "A Benchmark for Neutron Kinetics Methods in Hexagonal Geometry." Nuclear Science and Engineering, 2024. DOI: [`10.1080/00295639.2024.2396173`](https://doi.org/10.1080/00295639.2024.2396173)
+
+- **Dawn, William C.**, "Initial Validation of SIMULATE5-K and the CMS5 Reactor Modeling Suite with the SPERT-III Experiments" Proceedings of PHYSOR 2024, 2024. San Fransisco, CA. DOI: [`10.13182/PHYSOR24-43302`](https://doi.org/ 10.13182/PHYSOR24-43302)
+
 - **Dawn, William C.**, Gerardo Grandi, and Tamer Bahadir. "Development and Benchmarking of SIMULATE5-K-VVER." Annals of Nuclear Energy, 2023. Accepted for Publication.
 
-- **Dawn, William C.** and Tamer Bahadir. "Development and Benchmarking of Transient Nodal Code SIMULATE5-K Neutron Kinetics Solver for VVERs and Hexagonal Geometries." Proceedings of M&C 2023, 2023. Niagara Falls, Ontario. [Text.]()https://www.researchgate.net/publication/374083503_Development_and_Benchmarking_of_Transient_Nodal_Code_SIMULATE5-K_Neutron_Kinetics_Solver_for_VVERs_and_Hexagonal_Geometries
+- **Dawn, William C.** and Tamer Bahadir. "Development and Benchmarking of Transient Nodal Code SIMULATE5-K Neutron Kinetics Solver for VVERs and Hexagonal Geometries." Proceedings of M&C 2023, 2023. Niagara Falls, Ontario. [Text.](https://www.researchgate.net/publication/374083503_Development_and_Benchmarking_of_Transient_Nodal_Code_SIMULATE5-K_Neutron_Kinetics_Solver_for_VVERs_and_Hexagonal_Geometries)
 
 - **Dawn, William C.** and Scott Palmtag. "Solving the Neutron Transport Equation for Microreactor Modeling Using Unstructured Meshes and Exascale Computing Architectures." Nuclear Science and Engineering, 2023. DOI: [`10.1080/00295639.2023.2189510`](https://doi.org/10.1080/00295639.2023.2189510)
 
