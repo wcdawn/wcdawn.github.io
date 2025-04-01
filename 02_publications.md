@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Articles
 
-- **Dawn, William C.** "A Benchmark for Neutron Kinetics Methods in Hexagonal Geometry." Nuclear Science and Engineering, 2024. DOI: [`10.1080/00295639.2024.2396173`](https://doi.org/10.1080/00295639.2024.2396173)
+- **Dawn, William C.** "A Benchmark for Neutron Kinetics Methods in Hexagonal Geometry." Nuclear Science and Engineering (199), 2024. DOI: [`10.1080/00295639.2024.2396173`](https://doi.org/10.1080/00295639.2024.2396173)
 
 - **Dawn, William C.**, "Initial Validation of SIMULATE5-K and the CMS5 Reactor Modeling Suite with the SPERT-III Experiments" Proceedings of PHYSOR 2024, 2024. San Fransisco, CA. DOI: [`10.13182/PHYSOR24-43302`](https://doi.org/ 10.13182/PHYSOR24-43302)
 
