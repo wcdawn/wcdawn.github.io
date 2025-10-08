@@ -10,7 +10,7 @@
   {%- endif -%}
 
   {%- if site.orcid -%}
-  <li><a href="https://orcid.org/{{ site.researchgate_username | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#orcid' | relative_url }}"></use></svg> <span class="username">ORCiD</span></a></li>
+  <li><a href="https://orcid.org/{{ site.orcid | cgi_escape | escape }}"><svg class="svg-icon"><use xlink:href="{{ '/assets/minima-social-icons.svg#orcid' | relative_url }}"></use></svg> <span class="username">ORCiD</span></a></li>
   {%- endif -%}
 
   {%- if site.google_scholar_username -%}
