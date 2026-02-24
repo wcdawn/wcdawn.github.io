@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Computing Gauss-Legendre Quadrature Weights and Abscissae in Arbitrary Precision"
-date: 2021-08-30
+date: 2026-02-24
 categories: update
 ---
 
