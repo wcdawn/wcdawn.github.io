@@ -6,6 +6,8 @@ permalink: /publications/
 
 ## Articles
 
+- **Dawn, William C.**, Gerardo Grandi and Tamer Bahadir. "Validation of SIMULATE5-K and CASMO5 with the SPERT-III E-Core." Frontiers in Nuclear Engineering, 2026. DOI: [`10.3389/fnuen.2026.1771859`](https://doi.org/10.3389/fnuen.2026.1771859)
+
 - **Dawn, William C.** "Method of Manufactured Solutions for the Neutron Kinetics Equations." Nuclear Science and Engineering, 2025. DOI: [`10.1080/00295639.2025.2551471`](https://doi.org/10.1080/00295639.2025.2551471)
 
 - **Dawn, William C.** "A Benchmark for Neutron Kinetics Methods in Hexagonal Geometry." Nuclear Science and Engineering (199), 2024. DOI: [`10.1080/00295639.2024.2396173`](https://doi.org/10.1080/00295639.2024.2396173)
