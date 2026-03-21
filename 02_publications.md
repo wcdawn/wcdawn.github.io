@@ -56,10 +56,6 @@ permalink: /publications/
 
 - **Dawn, William C.** "Simulation of Fast Reactors with the Finite Element Method and Multiphysics Models." North Carolina State University, 2019. [M.S. Thesis.](http://www.lib.ncsu.edu/resolver/1840.20/36547)
 
-## Posters
-
-- **Dawn, William C.** and Scott Palmtag. "Multiphysics Modeling of Microreactors with Unstructured Mesh Neutron Transport and Exascale Computing Architectures." NEDAC Poster Session (2022). Raleigh, NC. DOI: [`10.13140/RG.2.2.29283.22567`](http://dx.doi.org/10.13140/RG.2.2.29283.22567)
-
 ## Patents
 
 - "Intermixing Feedwater Sparger Nozzles and Methods for using the Same in Nuclear Reactors." [US10566097B2](https://patents.google.com/patent/US10566097B2).
