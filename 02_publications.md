@@ -22,7 +22,7 @@ permalink: /publications/
 
 - **Dawn, William C.** "Peacock: A Monte Carlo Transport Code with Depletion for Reactor Modeling." Proceedings of Advances in Nuclear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394286909_Peacock_A_Monte_Carlo_Transport_Code_with_Depletion_for_Reactor_Modeling)
 
-- Wemple, C. A., R. M. Ferrer, T. T. Simeonov, J. M. Hykes, **W. C. Dawn**, and J. D. Rhodes. "Nuclear Data Usage At Studsvik Scandpower and Future Needs from ENDF/B-IX." Proeedings of Advances in Nculear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394287147_Nuclear_Data_Usage_at_Studsvik_Scandpower_and_Future_Needs_from_ENDFB-IX)
+- Wemple, C. A., R. M. Ferrer, T. T. Simeonov, J. M. Hykes, **W. C. Dawn**, and J. D. Rhodes. "Nuclear Data Usage At Studsvik Scandpower and Future Needs from ENDF/B-IX." Proceedings of Advances in Nuclear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394287147_Nuclear_Data_Usage_at_Studsvik_Scandpower_and_Future_Needs_from_ENDFB-IX)
 
 - Ferrer, Rodolfo, **William C. Dawn**, and Tamer Bahadir. "Verification of CMS5 for Higher Enrichment and High Burnup PWR Core Design." Proceedings of Advances in Nuclear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394287026_Verification_of_CMS5_for_Higher_Enrichment_and_High_Burnup_PWR_Core_Design)
 
