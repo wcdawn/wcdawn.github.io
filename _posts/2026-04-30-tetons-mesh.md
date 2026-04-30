@@ -1,5 +1,5 @@
 ---
-layout: pust
+layout: post
 title: "Mesh of the Tetons"
 date: 2026-04-30
 categories: update
