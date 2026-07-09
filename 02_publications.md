@@ -30,7 +30,7 @@ permalink: /publications/
 
 - **Dawn, William C.**, Charles Wemple, Joshua Hykes, Rodolfo M. Ferrer, and Joel Rhodes III. "Peacock: Development of a New Continuous Energy Monte Carlo Transport Code." Transactions of the American Nuclear Society. Volume 131. Nov. 2024. [Text.](https://www.researchgate.net/publication/392200725_Peacock_Development_of_a_New_Continuous_Energy_Monte_Carlo_Transport_Code)
 
-- **Dawn, William C.**, "Initial Validation of SIMULATE5-K and the CMS5 Reactor Modeling Suite with the SPERT-III Experiments" Proceedings of PHYSOR 2024, 2024. San Fransisco, CA. DOI: [`10.13182/PHYSOR24-43302`](https://doi.org/ 10.13182/PHYSOR24-43302)
+- **Dawn, William C.**, "Initial Validation of SIMULATE5-K and the CMS5 Reactor Modeling Suite with the SPERT-III Experiments" Proceedings of PHYSOR 2024, 2024. San Francisco, CA. DOI: [`10.13182/PHYSOR24-43302`](https://doi.org/ 10.13182/PHYSOR24-43302)
 
 - **Dawn, William C.** and Tamer Bahadir. "Development and Benchmarking of Transient Nodal Code SIMULATE5-K Neutron Kinetics Solver for VVERs and Hexagonal Geometries." Proceedings of M&C 2023, 2023. Niagara Falls, Ontario. [Text.](https://www.researchgate.net/publication/374083503_Development_and_Benchmarking_of_Transient_Nodal_Code_SIMULATE5-K_Neutron_Kinetics_Solver_for_VVERs_and_Hexagonal_Geometries)
 
