@@ -7,7 +7,7 @@ categories: update
 
 Well, it's been a while (over four years!) since I've posted on this thing. I suppose most of my writing these days is confined to emails and corporate memos.
 
-In numerical solutions to the neutron transport equation (especially the SN form) it is often necessary to numerically evaluate integrals on the interval [-1,1]. An obvious choice of numerical quadrature for this integration is the Gauss-Legendre quadratrure series. The abscissae for the quadratures are the zeros of the Legendre polynomials and the weights can be described by a relationship between the abscissae and the derivatives of the Legendre polynomials.
+In numerical solutions to the neutron transport equation (especially the SN form) it is often necessary to numerically evaluate integrals on the interval [-1,1]. An obvious choice of numerical quadrature for this integration is the Gauss-Legendre quadrature series. The abscissae for the quadratures are the zeros of the Legendre polynomials and the weights can be described by a relationship between the abscissae and the derivatives of the Legendre polynomials.
 
 One may readily find online pre-computed values for these Gauss-Legendre quadrature weights and abscissae. For an example, see [here](https://pomax.github.io/bezierinfo/legendre-gauss.html). Out of a personal curiosity, I wanted to try to compute these weights and abscissae with arbitrary precision.
 

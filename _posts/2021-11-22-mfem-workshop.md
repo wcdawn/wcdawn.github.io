@@ -2,7 +2,7 @@
 layout: post
 title: "MFEM Workshop"
 date: 2021-11-22
-categories: MFEM, reserach
+categories: MFEM, research
 ---
 
 A few weeks ago, I participated in the MFEM Community Workshop where I shared some of my research on solving the neutron transport equation in unstructured meshes using exascale computing architectures to model microreactors.
