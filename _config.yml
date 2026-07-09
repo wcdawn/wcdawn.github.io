@@ -16,7 +16,7 @@
 title: William C. Dawn
 email: wdawn730@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Senior Nuclear Engineer
+  Computational Scientist
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://wcdawn.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
