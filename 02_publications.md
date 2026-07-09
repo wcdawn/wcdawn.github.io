@@ -20,6 +20,16 @@ permalink: /publications/
 
 ## Conference Papers
 
+- **Dawn, William C.** and Charles Wemple. "Temperature Interpolation of Cross Sections in the Peacock Monte Carlo Code." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803239`](https://doi.org/10.5281/zenodo.20803239)
+
+- Madsen, William and **William C. Dawn**. "Analysis of the Neutronic Effects of the Axial Twist of Helical Cruciform Fuel Rods Using Peacock." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803323`](https://doi.org/10.5281/zenodo.20803323)
+
+- **Dawn, William C.**, William Madsen, and Charles Wemple. "Investigation of Chlorine Cross Sections in Molten Chloride Fast Reactors using Peacock." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803857`](https://doi.org/10.5281/zenodo.20803857)
+
+- Wemple, Charles A., William Madsen, and **William C. Dawn**. "Benchmark Testing of the Peacock Monte Carlo Code System." Proceedings of PHYSOR 2026, 2026. Torino, DOI: [`10.5281/zenodo.20803880`](https://doi.org/10.5281/zenodo.20803880)
+
+- Nguyen, Tung D. C., **William C. Dawn**, Charles A. Wemple, Tamer Bahadir, Rodolfo M. Ferrer, Joshua Hykes, and Joel Rhodes III. "Multi-Group Cross Section Generation with Peacock for Fast Reactor Applications." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803855`](https://doi.org/10.5281/zenodo.20803855)
+
 - **Dawn, William C.** "Peacock: A Monte Carlo Transport Code with Depletion for Reactor Modeling." Proceedings of Advances in Nuclear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394286909_Peacock_A_Monte_Carlo_Transport_Code_with_Depletion_for_Reactor_Modeling)
 
 - Wemple, C. A., R. M. Ferrer, T. T. Simeonov, J. M. Hykes, **W. C. Dawn**, and J. D. Rhodes. "Nuclear Data Usage At Studsvik Scandpower and Future Needs from ENDF/B-IX." Proceedings of Advances in Nuclear Fuel Management (ANFM) 2025, 2025. Clearwater Beach, FL. [Text.](https://www.researchgate.net/publication/394287147_Nuclear_Data_Usage_at_Studsvik_Scandpower_and_Future_Needs_from_ENDFB-IX)
