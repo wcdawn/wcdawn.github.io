@@ -56,6 +56,8 @@ permalink: /publications/
 
 - **Dawn, William C.** and Scott Palmtag. "A Multiphysics Simulation Suite for Sodium Cooled Fast Reactors." Proceedings of PHYSOR, 2020. Cambridge, UK. EPJ Web Conf, 2021. DOI: [`10.1051/epjconf/202124706019`](https://doi.org/10.1051/epjconf/202124706019)
 
+- Salko, Robert, Aaron Wysocki, Taylor Blyth, Aysenur Toptan, Jainwei Hu, Vineet Kumar, Chris Dances, **William Dawn**, et al. "CTF: A Modernized, Production-Level, Thermal Hydraulic Solver for the Solution of Industry-Relevant Challenge Problems in Pressurized Water Reactors." Nuclear Engineering and Design (397), 2022. DOI: [`10.1016/j.nucengdes.2022.111927`](https://doi.org/10.1016/j.nucengdes.2022.111927)
+
 ## Technical Reports
 
 - **Dawn, William C.**, Javier Ortensi, Mark D. DeHart, and Scott P. Palmtag. "Comparison of Generation of Higher-Order Neutron Scattering Cross Sections." Idaho National Laboratory, 2020. INL/EXT-19-54899. Tech. Report. DOI: [`10.2172/1593864`](https://doi.org/10.2172/1593864)
