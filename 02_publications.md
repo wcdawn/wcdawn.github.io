@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Articles
 
-- **Dawn, William C.** "The Evem Moment Method for Solving the <em>P<sub>N</sub></em> form of the Neutron Transport Equation and Challenges in Computing Multi-Group Transport Cross Sections with Anisotropic Scattering." Nuclear Science and Engineering, 2026. DOI: [`10.1080/00295639.2026.2706875`](https://doi.org/10.1080/00295639.2026.2706875)
+- **Dawn, William C.** "The Even Moment Method for Solving the <em>P<sub>N</sub></em> form of the Neutron Transport Equation and Challenges in Computing Multi-Group Transport Cross Sections with Anisotropic Scattering." Nuclear Science and Engineering, 2026. DOI: [`10.1080/00295639.2026.2706875`](https://doi.org/10.1080/00295639.2026.2706875)
 
 - **Dawn, William C.**, Gerardo Grandi and Tamer Bahadir. "Validation of SIMULATE5-K and CASMO5 with the SPERT-III E-Core." Frontiers in Nuclear Engineering, 2026. DOI: [`10.3389/fnuen.2026.1771859`](https://doi.org/10.3389/fnuen.2026.1771859)
 
