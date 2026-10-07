@@ -52,11 +52,11 @@ permalink: /publications/
 
 - Timothy M. Kiefer, **William C. Dawn**, Khaldoon Al-Dawood, and Scott Palmtag. "Control Rod Modeling in Liquid Metal-Cooled Fast Reactors." Proceedings of PHYSOR 2022, 2022. Pittsburgh, PA. DOI: [`10.13182/PHYSOR22-37649`](https://doi.org/10.13182/PHYSOR22-37649)
 
-- **William C. Dawn** and Scott Palmtag. "Simplified Thermal Expansion Modeling for Liquid Metal-Cooled Fast Reactors." Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33702`](https://dx.doi.org/10.13182/M&C21-33702)
+- **William C. Dawn** and Scott Palmtag. "Simplified Thermal Expansion Modeling for Liquid Metal-Cooled Fast Reactors." Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33702`](https://www.ans.org/pubs/proceedings/article-50191/)
 
-- Khaldoon A. Al-Dawood, **William C. Dawn**, and Scott Palmtag. "Multiphysics Simulation of Uranium-Nitride Fueled Lead-Cooled Fast Reactor" Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33708`](https://dx.doi.org/10.13182/M&C21-33708)
+- Khaldoon A. Al-Dawood, **William C. Dawn**, and Scott Palmtag. "Multiphysics Simulation of Uranium-Nitride Fueled Lead-Cooled Fast Reactor" Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33708`](https://www.ans.org/meetings/mc2021/session/view-720/)
 
-- Scott Palmtag, **William C. Dawn**, and Chase Lawing. "Fast Reactor Depletion Methods in LUPINE" Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33880`](https://dx.doi.org/10.13182/M&C21-33880)
+- Scott Palmtag, **William C. Dawn**, and Chase Lawing. "Fast Reactor Depletion Methods in LUPINE" Proceedings of M&C 2021, 2021. Raleigh, NC. DOI: [`10.13182/M&C21-33880`](https://www.ans.org/pubs/proceedings/article-50122/)
 
 - **William C. Dawn** and Scott Palmtag. "A Multiphysics Simulation Suite for Sodium Cooled Fast Reactors." Proceedings of PHYSOR, 2020. Cambridge, UK. EPJ Web Conf, 2021. DOI: [`10.1051/epjconf/202124706019`](https://doi.org/10.1051/epjconf/202124706019)
 
