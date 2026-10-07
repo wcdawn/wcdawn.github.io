@@ -48,7 +48,7 @@ permalink: /publications/
 
 - **William C. Dawn**, "Initial Validation of SIMULATE5-K and the CMS5 Reactor Modeling Suite with the SPERT-III Experiments" Proceedings of PHYSOR 2024, 2024. San Francisco, CA. DOI: [`10.13182/PHYSOR24-43302`](https://doi.org/10.13182/PHYSOR24-43302)
 
-- **William C. Dawn** and Tamer Bahadir. "Development and Benchmarking of Transient Nodal Code SIMULATE5-K Neutron Kinetics Solver for VVERs and Hexagonal Geometries." Proceedings of M&C 2023, 2023. Niagara Falls, Ontario. [Text.](https://www.researchgate.net/publication/374083503_Development_and_Benchmarking_of_Transient_Nodal_Code_SIMULATE5-K_Neutron_Kinetics_Solver_for_VVERs_and_Hexagonal_Geometries)
+- **William C. Dawn** and Tamer Bahadir. "Development and Benchmarking of Transient Nodal Code SIMULATE5-K Neutron Kinetics Solver for VVERs and Hexagonal Geometries." Proceedings of M&C 2023, 2023. Niagara Falls, Ontario. [Text.](https://www.researchgate.net/publication/374111958_Development_and_Benchmarking_of_Transient_Nodal_Code_SIMULATE5-K_Neutron_Kinetics_Solver_for_VVERs_and_Hexagonal_Geometries)
 
 - Timothy M. Kiefer, **William C. Dawn**, Khaldoon Al-Dawood, and Scott Palmtag. "Control Rod Modeling in Liquid Metal-Cooled Fast Reactors." Proceedings of PHYSOR 2022, 2022. Pittsburgh, PA. DOI: [`10.13182/PHYSOR22-37649`](https://doi.org/10.13182/PHYSOR22-37649)
 
