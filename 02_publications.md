@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-## Articles
+## Refereed Journal Articles
 
 - **William C. Dawn**, Charles Wemple, Tung D. C. Nguyen, Joshua Hykes, Petri Forslund Guimarães, and Rodolfo M. Ferrer. "Peacock: A Monte Carlo Code for Reactor Physics." Nuclear Science and Engineering, 2026. Accepted.
 
@@ -24,7 +24,7 @@ permalink: /publications/
 
 - Robert Salko,  Aaron Wysocki, Taylor Blyth, Aysenur Toptan, Jainwei Hu, Vineet Kumar, Chris Dances, **William Dawn**, et al. "CTF: A Modernized, Production-Level, Thermal Hydraulic Solver for the Solution of Industry-Relevant Challenge Problems in Pressurized Water Reactors." Nuclear Engineering and Design (397), 2022. DOI: [`10.1016/j.nucengdes.2022.111927`](https://doi.org/10.1016/j.nucengdes.2022.111927)
 
-## Conference Papers
+## Refereed Conference Proceedings
 
 - **William C. Dawn** and Charles Wemple. "Temperature Interpolation of Cross Sections in the Peacock Monte Carlo Code." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803239`](https://doi.org/10.5281/zenodo.20803239)
 
