@@ -6,7 +6,7 @@ permalink: /publications/
 
 ## Refereed Journal Articles
 
-- **William C. Dawn**, Charles Wemple, Tung D. C. Nguyen, Joshua Hykes, Petri Forslund Guimarães, and Rodolfo M. Ferrer. "Peacock: A Monte Carlo Code for Reactor Physics." Nuclear Science and Engineering, 2026. Accepted. DOI: [`10.1080/00295639.2026.2746851`](http://dx.doi.org/10.1080/00295639.2026.2746851)
+- **William C. Dawn**, Charles Wemple, Tung D. C. Nguyen, Joshua Hykes, Petri Forslund Guimarães, and Rodolfo M. Ferrer. "Peacock: A Monte Carlo Code for Reactor Physics." Nuclear Science and Engineering, 2026. DOI: [`10.1080/00295639.2026.2746851`](http://dx.doi.org/10.1080/00295639.2026.2746851)
 
 - **William C. Dawn** "The Even Moment Method for Solving the <em>P<sub>N</sub></em> form of the Neutron Transport Equation and Challenges in Computing Multi-Group Transport Cross Sections with Anisotropic Scattering." Nuclear Science and Engineering, 2026. DOI: [`10.1080/00295639.2026.2706875`](https://doi.org/10.1080/00295639.2026.2706875)
 
