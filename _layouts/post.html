@@ -17,6 +17,8 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    {% include javascript.html %}
   </div>
 
   {%- if site.disqus.shortname -%}
