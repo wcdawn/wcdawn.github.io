@@ -38,7 +38,9 @@ for i in range(0, max_ord, 2):
 plt.legend()
 plt.xlabel("x")
 plt.ylabel("y")
+plt.axis("square")
 plt.title("Taylor Series Approximation of a Circle")
 plt.tight_layout()
+plt.savefig("circle.png", dpi=600)
 
 plt.show()
