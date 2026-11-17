@@ -22,6 +22,10 @@ y = sympy.sqrt(R**2 - x**2)
 radius = 10.0
 xcoord = np.linspace(0.0, 0.9999 * radius, 1024)
 
+for i in range(0, 4):
+    dy = sympy.diff(y, (x, i))
+    print("i=", i, dy)
+
 max_ord = 20
 f = np.zeros((len(xcoord), max_ord // 2))
 for i in range(0, max_ord, 2):
