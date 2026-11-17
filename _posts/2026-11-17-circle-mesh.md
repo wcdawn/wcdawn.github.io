@@ -7,4 +7,8 @@ categories: update
 
 This may seem obvious to some people, but circles are not second-order finite elements. This was not always obvious to me, so I wanted to show some examples of how this breaks down.
 
-The equation for a circle centered at the origin is simply <span class="math">\(x^2 + y^2 = R^2\)</span> where $R$ is the radius of the circle.
+The equation for a circle centered at the origin is simply 
+\\[
+x^2 + y^2 = R^2
+\\]
+where $$R$$ is the radius of the circle.
