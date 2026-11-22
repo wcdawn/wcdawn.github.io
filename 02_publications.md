@@ -34,7 +34,7 @@ permalink: /publications/
 
 - **William C. Dawn**, William Madsen, and Charles Wemple. "Investigation of Chlorine Cross Sections in Molten Chloride Fast Reactors using Peacock." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803857`](https://doi.org/10.5281/zenodo.20803857)
 
-- Charles A. Wemple, William Madsen, and **William C. Dawn**. "Benchmark Testing of the Peacock Monte Carlo Code System." Proceedings of PHYSOR 2026, 2026. Torino, DOI: [`10.5281/zenodo.20803880`](https://doi.org/10.5281/zenodo.20803880)
+- Charles A. Wemple, William Madsen, and **William C. Dawn**. "Benchmark Testing of the Peacock Monte Carlo Code System." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803880`](https://doi.org/10.5281/zenodo.20803880)
 
 - Tung D. C. Nguyen, **William C. Dawn**, Charles A. Wemple, Tamer Bahadir, Rodolfo M. Ferrer, Joshua Hykes, and Joel Rhodes III. "Multi-Group Cross Section Generation with Peacock for Fast Reactor Applications." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803855`](https://doi.org/10.5281/zenodo.20803855)
 
