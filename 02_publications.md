@@ -26,7 +26,7 @@ permalink: /publications/
 
 ## Refereed Conference Proceedings
 
-- Petri Forslund Guimarães, **William Dawn**, Charles Wemple, and Rodolfo Ferrer. "Peacock &mdash; Studsvik Scandpower's State-of-the-Art Monte Carlo Code." Proceedings of VIII SENCIR, 2026. Belo Horizonte, Brazil. Accepted.
+- Petri Forslund Guimarães, **William Dawn**, Charles Wemple, and Rodolfo Ferrer. "Peacock &mdash; Studsvik Scandpower's State-of-the-Art Monte Carlo Code." Proceedings of VIII SENCIR, 2026. Belo Horizonte, Brazil.
 
 - **William C. Dawn** and Charles Wemple. "Temperature Interpolation of Cross Sections in the Peacock Monte Carlo Code." Proceedings of PHYSOR 2026, 2026. Torino, Italy. DOI: [`10.5281/zenodo.20803239`](https://doi.org/10.5281/zenodo.20803239)
 
